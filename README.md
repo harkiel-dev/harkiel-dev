@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Harkiel 👋
 
-<!--
-**harkiel-dev/harkiel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Web Developer based in Kenya building web applications with React, Express, and PostgreSQL.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Frontend:** React, JavaScript, HTML5, CSS3
+- **Backend:** Node.js, Express.js, PostgreSQL, Supabase
+- **Tools:** Git, GitHub, Linux (Ubuntu), VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Working On
+- Building full-stack web applications and mastering networking fundamentals.
+- Developing digital experiences for **AVA** (Artistics, Vibes and Activities).
+
+---
+*Feel free to explore my repositories and check out my latest work!*
